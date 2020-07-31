@@ -1,0 +1,46 @@
+_repo: King-Mombo_62710
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Pérard, Victor Semon
+    alias: Perard, Victor Semon
+    birthdate: 1870
+    deathdate: 1957
+    gutenberg_agent_id: '45430'
+    url: http://www.gutenberg.org/2009/agents/45430
+creator:
+  author:
+    agent_name: Du Chaillu, Paul B. (Paul Belloni)
+    aliases:
+    - Chaillu, Paul Du
+    - Chaillu, Paul Belloni Du
+    - Belloni du Chaillu, Paul
+    - Chaillu, Paul B. du (Paul Belloni)
+    - Chaillu, P. B. du (Paul Belloni)
+    birthdate: 1835
+    deathdate: 1903
+    gutenberg_agent_id: '25508'
+    url: http://www.gutenberg.org/2009/agents/25508
+    wikipedia: https://en.wikipedia.org/wiki/Paul_Du_Chaillu
+description: ''
+gutenberg_issued: '2020-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa -- Description and travel -- Juvenile literature'
+- !lcc 'PZ'
+- !lcc 'DT'
+- !lcsh 'Kings and rulers -- Juvenile literature'
+- !lcsh 'Adventure and adventurers -- Juvenile literature'
+- !lcsh 'Hunting -- Juvenile literature'
+- !lcsh 'Voyages and travels -- Juvenile literature'
+- !lcsh 'Animals -- Juvenile literature'
+- !lcsh 'Du Chaillu, Paul B. (Paul Belloni), 1835-1903 -- Travel -- Juvenile literature'
+- GITenberg
+title: King Mombo
+url: http://www.gutenberg.org/ebooks/62710
